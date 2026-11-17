@@ -1,0 +1,22 @@
+#Archive/File,Name,Time,Size,Type,url
+File,GSM9485163_control_donor_1_cell_feature_matrix.h5,01/27/2026 11:07:56,6195184,H5,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9485nnn/GSM9485163/suppl/GSM9485163_control_donor_1_cell_feature_matrix.h5
+File,GSM9485163_control_donor_1_cells.parquet.gz,01/29/2026 12:57:27,576591,PARQUET,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9485nnn/GSM9485163/suppl/GSM9485163_control_donor_1_cells.parquet.gz
+File,GSM9485163_control_donor_1_features.tsv.gz,01/27/2026 11:07:49,63955,TSV,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9485nnn/GSM9485163/suppl/GSM9485163_control_donor_1_features.tsv.gz
+File,GSM9485164_control_donor_2_cell_feature_matrix.h5,01/29/2026 12:11:00,5891408,H5,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9485nnn/GSM9485164/suppl/GSM9485164_control_donor_2_cell_feature_matrix.h5
+File,GSM9485164_control_donor_2_cells.parquet.gz,01/29/2026 12:58:47,469728,PARQUET,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9485nnn/GSM9485164/suppl/GSM9485164_control_donor_2_cells.parquet.gz
+File,GSM9485164_control_donor_2_features.tsv.gz,01/29/2026 12:10:59,63955,TSV,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9485nnn/GSM9485164/suppl/GSM9485164_control_donor_2_features.tsv.gz
+File,GSM9485165_control_donor_3_cell_feature_matrix.h5,01/27/2026 11:08:03,4839398,H5,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9485nnn/GSM9485165/suppl/GSM9485165_control_donor_3_cell_feature_matrix.h5
+File,GSM9485165_control_donor_3_cells.parquet.gz,01/29/2026 12:59:46,512317,PARQUET,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9485nnn/GSM9485165/suppl/GSM9485165_control_donor_3_cells.parquet.gz
+File,GSM9485165_control_donor_3_features.tsv.gz,01/27/2026 10:10:25,63955,TSV,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9485nnn/GSM9485165/suppl/GSM9485165_control_donor_3_features.tsv.gz
+File,GSM9485166_CNV_donor_1_cell_feature_matrix.h5,01/27/2026 09:45:38,7277904,H5,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9485nnn/GSM9485166/suppl/GSM9485166_CNV_donor_1_cell_feature_matrix.h5
+File,GSM9485166_CNV_donor_1_cells.parquet.gz,01/29/2026 13:00:51,651542,PARQUET,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9485nnn/GSM9485166/suppl/GSM9485166_CNV_donor_1_cells.parquet.gz
+File,GSM9485166_CNV_donor_1_features.tsv.gz,01/27/2026 10:10:16,63955,TSV,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9485nnn/GSM9485166/suppl/GSM9485166_CNV_donor_1_features.tsv.gz
+File,GSM9485167_CNV_donor_2_cell_feature_matrix.h5,01/29/2026 11:45:17,4528590,H5,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9485nnn/GSM9485167/suppl/GSM9485167_CNV_donor_2_cell_feature_matrix.h5
+File,GSM9485167_CNV_donor_2_cells.parquet.gz,01/29/2026 13:02:07,432135,PARQUET,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9485nnn/GSM9485167/suppl/GSM9485167_CNV_donor_2_cells.parquet.gz
+File,GSM9485167_CNV_donor_2_features.tsv.gz,01/29/2026 11:45:17,63955,TSV,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9485nnn/GSM9485167/suppl/GSM9485167_CNV_donor_2_features.tsv.gz
+File,GSM9485168_CNV_donor_3A_cell_feature_matrix.h5,01/27/2026 10:10:27,3493975,H5,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9485nnn/GSM9485168/suppl/GSM9485168_CNV_donor_3A_cell_feature_matrix.h5
+File,GSM9485168_CNV_donor_3A_cells.parquet.gz,01/29/2026 13:03:14,407930,PARQUET,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9485nnn/GSM9485168/suppl/GSM9485168_CNV_donor_3A_cells.parquet.gz
+File,GSM9485168_CNV_donor_3A_features.tsv.gz,01/27/2026 11:07:31,63955,TSV,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9485nnn/GSM9485168/suppl/GSM9485168_CNV_donor_3A_features.tsv.gz
+File,GSM9485169_CNV_donor_3B_cell_feature_matrix.h5,01/27/2026 10:10:19,3822764,H5,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9485nnn/GSM9485169/suppl/GSM9485169_CNV_donor_3B_cell_feature_matrix.h5
+File,GSM9485169_CNV_donor_3B_cells.parquet.gz,01/29/2026 13:04:32,456792,PARQUET,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9485nnn/GSM9485169/suppl/GSM9485169_CNV_donor_3B_cells.parquet.gz
+File,GSM9485169_CNV_donor_3B_features.tsv.gz,01/27/2026 09:26:35,63955,TSV,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9485nnn/GSM9485169/suppl/GSM9485169_CNV_donor_3B_features.tsv.gz

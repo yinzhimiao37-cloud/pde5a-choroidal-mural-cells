@@ -1,0 +1,12 @@
+{
+  "verified": true,
+  "checks": [
+    "14 region samples; 7 donors",
+    "18569 total original cells",
+    "975 mural cells, 342 positive",
+    "all donor minima 1-50 keep same seven donors",
+    "pooled numerators and denominators conserved",
+    "mean uses unweighted donor percentages; sample SD ddof=1"
+  ],
+  "external_independence": "not assumed; GSE183320 reuses samples"
+}

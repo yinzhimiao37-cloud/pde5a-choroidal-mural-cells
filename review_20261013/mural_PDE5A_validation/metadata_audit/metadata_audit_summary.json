@@ -1,0 +1,68 @@
+{
+  "audit_date": "2026-10-13",
+  "scope": "Current project files and public GEO/paper metadata; expression positivity outputs were not used to define or change audit criteria.",
+  "project_files_examined_by_name": 4199,
+  "spatial_filename_candidates": 24,
+  "GSE183320_metadata_shape": [
+    30416,
+    16
+  ],
+  "GSE183320_metadata_columns": [
+    "barcode",
+    "nCount_RNA",
+    "nFeature_RNA",
+    "mito.genes",
+    "ribo.genes",
+    "celltype",
+    "disease_status",
+    "library",
+    "age",
+    "sex",
+    "PMI",
+    "eye",
+    "punch_size",
+    "MMP9(rs4810482)",
+    "UMAP_1",
+    "UMAP_2"
+  ],
+  "GSE183320_unique_libraries": 21,
+  "GSE183320_disease_by_library": {
+    "control": 10,
+    "AMD": 9,
+    "nAMD": 2
+  },
+  "GSE183320_donors_supported_by_paper_Table1": 21,
+  "GEO_series_donor_count_inconsistency": "GEO says twenty; peer-reviewed paper Methods/Table1/Fig2 and 21 GSM samples support 21 donors.",
+  "known_GSE135922_reused_GSE183320_donor_numbers": [
+    1,
+    2,
+    11,
+    12
+  ],
+  "known_GSE149100_reused_GSE183320_donor_numbers": [
+    3,
+    5
+  ],
+  "known_GSE135922_reused_donor_labels_in_GEO": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "GSE135922_donor_region_design": "7 donor labels; each has macula and periphery; donor1-3 unenriched and donor4-7 CD31 enriched.",
+  "cross_dataset_independence": "NOT independent in full: four macular samples are explicitly reused.",
+  "GSE135922_header_non_gene_fields": [
+    "barcode",
+    "final_cluster_labels",
+    "library"
+  ],
+  "GSE183320_physical_coordinates": false,
+  "spatial_analysis_status": "Not executable: no recognized Xenium/Visium physical coordinates, panel specification or spatial cell annotations located in the checked project. UMAP_1/UMAP_2 are not tissue coordinates.",
+  "PDE5A_spatial_panel_coverage": "unknown: no local panel file located",
+  "known_metadata_conflict": "GEO reanalysis links map new1 to old donor5 and new12 to old donor6; ages/sex/eye/PMI in the paper Table1s suggest the old5/6 labels are swapped relative to these links. Preserve accession-level provenance; do not silently resolve biological donor labels.",
+  "public_data_followup": {
+    "accession": "GSE318037",
+    "status": "PDE5A features, physical coordinates and author annotations obtained; local absence earlier in this file was a pre-search snapshot",
+    "input_audit": "../spatial_GSE318037/README_输入与预处理审计.md"
+  }
+}

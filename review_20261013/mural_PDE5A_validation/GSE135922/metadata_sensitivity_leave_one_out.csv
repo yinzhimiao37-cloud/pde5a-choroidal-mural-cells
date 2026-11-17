@@ -1,0 +1,7 @@
+restriction,omitted_donor,remaining_donors_n,mean_percent,sample_sd_percent
+exclude_documented_shared_donors,1,2,23.53175657719904,1.4093278923462924
+exclude_documented_shared_donors,2,2,23.767605633802816,1.7428688268682522
+exclude_documented_shared_donors,3,2,24.764150943396224,0.3335409345219596
+original_no_noted_disease_exclude_discordant_donors5_6,1,2,24.880973373302766,0.4987527992851708
+original_no_noted_disease_exclude_discordant_donors5_6,2,2,25.11682242990654,0.1652118647632112
+original_no_noted_disease_exclude_discordant_donors5_6,7,2,24.764150943396224,0.3335409345219596

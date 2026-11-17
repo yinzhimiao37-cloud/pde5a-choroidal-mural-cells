@@ -1,0 +1,15 @@
+gsm,donor,region,experiment,health,source_file,annotation,original_cluster,cells_n,positive_n,expression_sum,positivity_percent,mean_published_normalized_expression,eligible_primary_20cells
+GSM4037981,1,macula,unenriched,no_noted_ophthalmologic_disease,GSM4037981_macula_donor_1_expression.tsv.gz,mural-like,5,40,10,9.65365880578295,25.0,0.24134147014457374,True
+GSM4037982,2,macula,unenriched,no_noted_ophthalmologic_disease,GSM4037982_macula_donor_2_expression.tsv.gz,mural-like,5,15,6,3.4693456074238957,40.0,0.23128970716159306,False
+GSM4037983,3,macula,unenriched,AMD,GSM4037983_macula_donor_3_expression.tsv.gz,mural-like,5,52,13,9.870443580352784,25.0,0.189816222699092,True
+GSM4037984,1,peripheral,unenriched,no_noted_ophthalmologic_disease,GSM4037984_peripheral_donor_1_expression.tsv.gz,mural-like,5,16,4,3.7819724774801182,25.0,0.2363732798425074,False
+GSM4037985,2,peripheral,unenriched,no_noted_ophthalmologic_disease,GSM4037985_peripheral_donor_2_expression.tsv.gz,mural-like,5,38,7,6.621051701736464,18.42105263157895,0.17423820267727538,True
+GSM4037986,3,peripheral,unenriched,AMD,GSM4037986_peripheral_donor_3_expression.tsv.gz,mural-like,5,19,3,1.6023740648229108,15.789473684210526,0.08433547709594268,False
+GSM4037987,4,macula,CD31_enriched,AMD,GSM4037987_macula_donor_4_enriched_expression.tsv.gz,mural-like,1,164,91,93.21427796625427,55.48780487804878,0.5683797436966724,True
+GSM4037988,5,macula,CD31_enriched,no_noted_ophthalmologic_disease,GSM4037988_macula_donor_5_enriched_expression.tsv.gz,mural-like,1,111,43,33.610154016191366,38.73873873873874,0.3027941803260483,True
+GSM4037989,6,macula,CD31_enriched,no_noted_ophthalmologic_disease,GSM4037989_macula_donor_6_enriched_expression.tsv.gz,mural-like,1,85,31,26.426295243366365,36.470588235294116,0.31089759109842785,True
+GSM4037990,7,macula,CD31_enriched,no_noted_ophthalmologic_disease,GSM4037990_macula_donor_7_enriched_expression.tsv.gz,mural-like,1,86,22,17.21016652091914,25.58139534883721,0.2001182153595249,True
+GSM4037991,4,peripheral,CD31_enriched,AMD,GSM4037991_peripheral_donor_4_enriched_expression.tsv.gz,mural-like,1,76,32,31.627148495508234,42.10526315789474,0.41614669073037147,True
+GSM4037992,5,peripheral,CD31_enriched,no_noted_ophthalmologic_disease,GSM4037992_peripheral_donor_5_enriched_expression.tsv.gz,mural-like,1,85,26,22.65119079358049,30.58823529411765,0.2664845975715352,True
+GSM4037993,6,peripheral,CD31_enriched,no_noted_ophthalmologic_disease,GSM4037993_peripheral_donor_6_enriched_expression.tsv.gz,mural-like,1,60,22,16.166803045974678,36.666666666666664,0.2694467174329113,True
+GSM4037994,7,peripheral,CD31_enriched,no_noted_ophthalmologic_disease,GSM4037994_peripheral_donor_7_enriched_expression.tsv.gz,mural-like,1,128,32,25.09802600171625,25.0,0.1960783281384082,True

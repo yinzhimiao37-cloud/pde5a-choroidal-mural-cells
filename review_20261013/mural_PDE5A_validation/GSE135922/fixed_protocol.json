@@ -1,0 +1,61 @@
+{
+  "status": "rules_fixed_before_new_donor_region_PDE5A_quantification; retrospective contextual analysis, not preregistration",
+  "dataset": "GSE135922",
+  "exposure_or_CSCR_group": "none established",
+  "primary_gene": "PDE5A",
+  "data_type": "original author processed normalized expression; positivity > 0, not raw UMI counts",
+  "source_tar_contains": "14 normalized expression files only; no raw count matrix locally in this TAR",
+  "separate_cluster_namespaces": {
+    "unenriched": "donors 1-3",
+    "CD31_enriched": "donors 4-7"
+  },
+  "mural_annotation_rule": "Before inspecting new PDE5A summaries, calculate each cluster's mean of RGS5, ACTA2, PDGFRB and NOTCH3 within each experiment. Divide each marker mean by its maximum across clusters within that experiment; average the four scaled means. The top-scoring cluster is provisionally mural-like only if it is top-three for both RGS5 and ACTA2 and is not dominated by endothelial, immune or epithelial markers on review. Save all marker summaries and the fixed annotation before PDE5A quantification. No forced SMC/pericyte split.",
+  "marker_panel": [
+    "RGS5",
+    "ACTA2",
+    "PDGFRB",
+    "NOTCH3",
+    "COL1A1",
+    "COL1A2",
+    "DCN",
+    "EMCN",
+    "VWF",
+    "AIF1",
+    "CD163",
+    "C1QA",
+    "PTPRC",
+    "RPE65",
+    "BEST1"
+  ],
+  "header_audit_amendment_before_marker_statistics": "PECAM1 is absent from all 14 source headers; remove it from the panel, do not impute as zero. Endothelial context remains EMCN/VWF.",
+  "health_source": "review_20261010/bmc_submission/qa/data_reference_sources/GSE135922.txt, Series_summary",
+  "disease_map": {
+    "1": "no_noted_ophthalmologic_disease",
+    "2": "no_noted_ophthalmologic_disease",
+    "3": "AMD",
+    "4": "AMD",
+    "5": "no_noted_ophthalmologic_disease",
+    "6": "no_noted_ophthalmologic_disease",
+    "7": "no_noted_ophthalmologic_disease"
+  },
+  "primary_min_cells": 20,
+  "sensitivity_min_cells": [
+    1,
+    5,
+    10,
+    30,
+    50
+  ],
+  "donor_aggregation": "For each donor and annotation, sum positive cells and all cells across macula/peripheral regions before applying donor-level minimum. Compute donor positivity as 100*positive/all. Regional summaries apply threshold separately to each donor-region. Do not average regional percentages to obtain donor percentages.",
+  "statistical_unit": "donor; macula/peripheral observations are paired regions, not additional donors",
+  "summaries": "unweighted mean and sample SD across eligible donors; n=0 mean missing; n=1 SD missing. Show min/max, positive donors, cells, and leave-one-donor-out means. No zero imputation for missing annotation.",
+  "restrictions": [
+    "all donors",
+    "no_noted_ophthalmologic_disease only",
+    "unenriched only",
+    "CD31_enriched only"
+  ],
+  "region_contrast": "macula-minus-peripheral percentage-point differences in donors meeting the threshold in both regions; descriptive only, no independent-cell tests",
+  "external_replication": "GSE183320 contains reused GSE135922 macular samples; independence must not be assumed. Exclude overlap only if donor mapping is verifiable, otherwise flag unresolved.",
+  "interpretation": "cellular localization robustness only; no drug-response, protein abundance, PDE5A inhibition, disease susceptibility or patient-level inference"
+}

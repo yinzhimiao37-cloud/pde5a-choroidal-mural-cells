@@ -1,0 +1,16 @@
+{
+  "input_sha256": "4795a9e231618b7e395cba58c920d556b9f66097294ae460ae6b9626c1559e6f",
+  "protocol_sha256": "8127abd08f07d4e2f553c1d384892091e7dbc21128b04612e574b48cda1ed4a3",
+  "input_segmented_cells_n": 172999,
+  "author_annotated_cells_n": 171235,
+  "protocol_unchanged": true,
+  "permutations": 9999,
+  "seed": 20261013,
+  "main_region": "Choroid",
+  "unit": "donor",
+  "metric": "Mean endothelial centroid neighbours within 25 micrometres per PDE5A-positive mural cell",
+  "coordinates": "cell centroids; not membrane contact",
+  "elapsed_seconds": 2.8258108999580145,
+  "multiple_testing": "Two planned mural subtypes in each positivity-threshold and scheme family, including unevaluable tests in family size; only all-donor P values inferential",
+  "limitations": "Control/CNV, not CSCR/tadalafil; conditional label exchangeability, residual local architecture and technical confounding possible"
+}

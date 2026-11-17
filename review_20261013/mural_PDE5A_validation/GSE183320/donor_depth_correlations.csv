@@ -1,0 +1,9 @@
+cohort,celltype,metric,donors_n,spearman_rho,permutation_p_two_sided,permutations,seed,BH_q
+all,SMC,median_nCount_RNA,17,0.44607843137254904,0.0804,9999,20261013,0.0804
+all,SMC,median_nFeature_RNA,17,0.5784313725490197,0.0168,9999,20261013,0.0336
+all,pericyte,median_nCount_RNA,20,0.18345864661654132,0.4444,9999,20261013,0.4444
+all,pericyte,median_nFeature_RNA,20,0.3654135338345864,0.1145,9999,20261013,0.229
+control,SMC,median_nCount_RNA,8,0.619047619047619,0.113,9999,20261013,0.113
+control,SMC,median_nFeature_RNA,8,0.619047619047619,0.1089,9999,20261013,0.113
+control,pericyte,median_nCount_RNA,10,0.10303030303030303,0.7907,9999,20261013,0.7907
+control,pericyte,median_nFeature_RNA,10,0.296969696969697,0.4111,9999,20261013,0.7907

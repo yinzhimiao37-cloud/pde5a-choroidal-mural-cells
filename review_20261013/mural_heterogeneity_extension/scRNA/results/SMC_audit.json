@@ -1,0 +1,14 @@
+{
+  "celltype": "SMC",
+  "n_cells": 996,
+  "n_donors": 21,
+  "n_graph_components": 1,
+  "largest_component_fraction": 1.0,
+  "seed": 20261013,
+  "root_cells": [
+    "CAGGTATGTCATGGCC-1_21",
+    "AAAGGATGTGCGTTTA-1_7"
+  ],
+  "root_sensitivity_spearman": 0.46106116375402156,
+  "trajectory_label": "Contractile-reference transcriptional distance; not aging time"
+}

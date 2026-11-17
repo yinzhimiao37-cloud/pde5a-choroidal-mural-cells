@@ -1,0 +1,29 @@
+{
+  "stage": "markers",
+  "elapsed_seconds": 27.65975089999847,
+  "memory": {
+    "unavailable": "psutil not installed"
+  },
+  "python": "3.12.14",
+  "pandas": "3.0.1",
+  "numpy": "2.3.5",
+  "protocol_sha256": "2f1d69bb11310f6fb85b9d598aff06a83f47034f39b8da0c503a2ad9352492a7",
+  "script_sha256": "f5b45048e239fca3be7499e9a6d759a7df593e45cd0cacb91952f333ed7f1ee8",
+  "source_sha256": {
+    "GSM4037981_macula_donor_1_expression.tsv.gz": "6169775a87e2c0ef4999beda39533b7e426506ae74fe5b28a90569fa042be4da",
+    "GSM4037982_macula_donor_2_expression.tsv.gz": "7d351ee692139a11eff447166a097a396356384a28359eca4e6ccd1fdd76aec7",
+    "GSM4037983_macula_donor_3_expression.tsv.gz": "00c2ccd1352b046ab38c95004ed3ae4e8d8d4d21be6dd0bc4e496bacb12dbd1d",
+    "GSM4037984_peripheral_donor_1_expression.tsv.gz": "fde9b36d19e47404e2af01479051a918b4e233bf43715e5fa47c263d621f662e",
+    "GSM4037985_peripheral_donor_2_expression.tsv.gz": "80e0af2eba3e4dbdffae3767c03b52351d2a9b855d6df4024e0a32cbbb455c62",
+    "GSM4037986_peripheral_donor_3_expression.tsv.gz": "f19756f1c3b3b4a7c917099f9a31f2ee4b8fb6a74091a159baf19416c3e49e7e",
+    "GSM4037987_macula_donor_4_enriched_expression.tsv.gz": "3eec884797f11ea68f29bd2870ac3ec1447d668fa564e8f71ccbbb425e9674e2",
+    "GSM4037988_macula_donor_5_enriched_expression.tsv.gz": "baf67111f3083c03777d6032a6b47be90fedf11b17283a835334665c499b51dc",
+    "GSM4037989_macula_donor_6_enriched_expression.tsv.gz": "d54175800d0105897abbf649b660d86dcd506cfb71e80ae7f6c7693404456c36",
+    "GSM4037990_macula_donor_7_enriched_expression.tsv.gz": "f9370f2eeaa521d5a49d4e60b71bed43f2394fb81d243698acc60b15f7933d55",
+    "GSM4037991_peripheral_donor_4_enriched_expression.tsv.gz": "24d8c2edfd81afa4ca76d16ae653d4d03a703de3c1344fb5f543bd40bb9adfaa",
+    "GSM4037992_peripheral_donor_5_enriched_expression.tsv.gz": "560e8ce372862cbd4310136809b16e04480a5e2d622dd590c8623333f392a142",
+    "GSM4037993_peripheral_donor_6_enriched_expression.tsv.gz": "67c06b042572b7f9b200e9403171bdd88973fae8aa389392e17666462284f782",
+    "GSM4037994_peripheral_donor_7_enriched_expression.tsv.gz": "9f8ed3e7620c4b8bd9be55705fe621fc42c91005f366a9d0527645a3bf8d7db1"
+  },
+  "details": {}
+}

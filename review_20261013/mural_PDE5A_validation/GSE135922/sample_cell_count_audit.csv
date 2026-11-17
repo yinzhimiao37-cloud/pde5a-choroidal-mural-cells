@@ -1,0 +1,15 @@
+gsm,donor,region,experiment,health,source_file,all_cells_n,clusters_present
+GSM4037981,1,macula,unenriched,no_noted_ophthalmologic_disease,GSM4037981_macula_donor_1_expression.tsv.gz,544,2;3;4;5;6;7;8;9;10
+GSM4037982,2,macula,unenriched,no_noted_ophthalmologic_disease,GSM4037982_macula_donor_2_expression.tsv.gz,567,2;3;4;5;6;7;8;9;10;11
+GSM4037983,3,macula,unenriched,AMD,GSM4037983_macula_donor_3_expression.tsv.gz,1056,1;2;3;4;5;6;7;8;9;10;11
+GSM4037984,1,peripheral,unenriched,no_noted_ophthalmologic_disease,GSM4037984_peripheral_donor_1_expression.tsv.gz,851,1;2;3;4;5;6;7;8;9;10;11
+GSM4037985,2,peripheral,unenriched,no_noted_ophthalmologic_disease,GSM4037985_peripheral_donor_2_expression.tsv.gz,672,2;3;4;5;6;7;8;9;10;11
+GSM4037986,3,peripheral,unenriched,AMD,GSM4037986_peripheral_donor_3_expression.tsv.gz,645,2;3;4;5;6;7;8;9;10;11
+GSM4037987,4,macula,CD31_enriched,AMD,GSM4037987_macula_donor_4_enriched_expression.tsv.gz,2605,1;2;3;4;5;6;7;8;9;10;11;12;13
+GSM4037988,5,macula,CD31_enriched,no_noted_ophthalmologic_disease,GSM4037988_macula_donor_5_enriched_expression.tsv.gz,1573,1;2;3;4;5;6;7;8;9;10;11;12;13
+GSM4037989,6,macula,CD31_enriched,no_noted_ophthalmologic_disease,GSM4037989_macula_donor_6_enriched_expression.tsv.gz,1705,1;2;3;4;5;6;7;8;9;10;11;12;13
+GSM4037990,7,macula,CD31_enriched,no_noted_ophthalmologic_disease,GSM4037990_macula_donor_7_enriched_expression.tsv.gz,1764,1;2;3;4;5;6;7;8;9;10;11;12;13
+GSM4037991,4,peripheral,CD31_enriched,AMD,GSM4037991_peripheral_donor_4_enriched_expression.tsv.gz,1016,1;2;3;4;5;6;7;8;9;10;11;12;13
+GSM4037992,5,peripheral,CD31_enriched,no_noted_ophthalmologic_disease,GSM4037992_peripheral_donor_5_enriched_expression.tsv.gz,1168,1;2;3;4;5;6;7;8;9;10;11;12;13
+GSM4037993,6,peripheral,CD31_enriched,no_noted_ophthalmologic_disease,GSM4037993_peripheral_donor_6_enriched_expression.tsv.gz,1408,1;2;3;4;5;6;7;8;9;10;11;12;13
+GSM4037994,7,peripheral,CD31_enriched,no_noted_ophthalmologic_disease,GSM4037994_peripheral_donor_7_enriched_expression.tsv.gz,2995,1;2;3;4;5;6;7;8;9;10;11;12;13

@@ -1,0 +1,134 @@
+{
+  "stage": "quantify",
+  "elapsed_seconds": 27.568322199978866,
+  "memory": {
+    "rss_MiB": 74.00390625,
+    "peak_wset_MiB": 403.64453125
+  },
+  "python": "3.12.14",
+  "pandas": "3.0.1",
+  "numpy": "2.3.5",
+  "protocol_sha256": "2f1d69bb11310f6fb85b9d598aff06a83f47034f39b8da0c503a2ad9352492a7",
+  "script_sha256": "f932183cef4a4dd1c136b7e859abc1635fdabcf6514e63f447122b852c7fa806",
+  "source_sha256": {
+    "GSM4037981_macula_donor_1_expression.tsv.gz": "6169775a87e2c0ef4999beda39533b7e426506ae74fe5b28a90569fa042be4da",
+    "GSM4037982_macula_donor_2_expression.tsv.gz": "7d351ee692139a11eff447166a097a396356384a28359eca4e6ccd1fdd76aec7",
+    "GSM4037983_macula_donor_3_expression.tsv.gz": "00c2ccd1352b046ab38c95004ed3ae4e8d8d4d21be6dd0bc4e496bacb12dbd1d",
+    "GSM4037984_peripheral_donor_1_expression.tsv.gz": "fde9b36d19e47404e2af01479051a918b4e233bf43715e5fa47c263d621f662e",
+    "GSM4037985_peripheral_donor_2_expression.tsv.gz": "80e0af2eba3e4dbdffae3767c03b52351d2a9b855d6df4024e0a32cbbb455c62",
+    "GSM4037986_peripheral_donor_3_expression.tsv.gz": "f19756f1c3b3b4a7c917099f9a31f2ee4b8fb6a74091a159baf19416c3e49e7e",
+    "GSM4037987_macula_donor_4_enriched_expression.tsv.gz": "3eec884797f11ea68f29bd2870ac3ec1447d668fa564e8f71ccbbb425e9674e2",
+    "GSM4037988_macula_donor_5_enriched_expression.tsv.gz": "baf67111f3083c03777d6032a6b47be90fedf11b17283a835334665c499b51dc",
+    "GSM4037989_macula_donor_6_enriched_expression.tsv.gz": "d54175800d0105897abbf649b660d86dcd506cfb71e80ae7f6c7693404456c36",
+    "GSM4037990_macula_donor_7_enriched_expression.tsv.gz": "f9370f2eeaa521d5a49d4e60b71bed43f2394fb81d243698acc60b15f7933d55",
+    "GSM4037991_peripheral_donor_4_enriched_expression.tsv.gz": "24d8c2edfd81afa4ca76d16ae653d4d03a703de3c1344fb5f543bd40bb9adfaa",
+    "GSM4037992_peripheral_donor_5_enriched_expression.tsv.gz": "560e8ce372862cbd4310136809b16e04480a5e2d622dd590c8623333f392a142",
+    "GSM4037993_peripheral_donor_6_enriched_expression.tsv.gz": "67c06b042572b7f9b200e9403171bdd88973fae8aa389392e17666462284f782",
+    "GSM4037994_peripheral_donor_7_enriched_expression.tsv.gz": "9f8ed3e7620c4b8bd9be55705fe621fc42c91005f366a9d0527645a3bf8d7db1"
+  },
+  "details": {
+    "total_cells": 18569,
+    "mural_cells": 975,
+    "annotation": {
+      "status": "marker-only annotation reviewed and saved before new PDE5A summaries",
+      "annotation": "mural-like",
+      "mural_clusters": {
+        "unenriched": 5,
+        "CD31_enriched": 1
+      },
+      "evidence": "Within each experiment all four predefined mural markers have their largest cluster mean in the selected cluster; scaled composite score=1. Both RGS5 and ACTA2 rank first. AIF1/PTPRC are absent or low; EMCN/VWF and RPE65/BEST1 do not dominate these clusters.",
+      "unenriched_selected_cluster": {
+        "cluster": 5,
+        "cells": 180,
+        "RGS5": 2.6952,
+        "ACTA2": 2.844,
+        "PDGFRB": 0.5788,
+        "NOTCH3": 0.6995
+      },
+      "enriched_selected_cluster": {
+        "cluster": 1,
+        "cells": 795,
+        "RGS5": 3.2083,
+        "ACTA2": 2.4438,
+        "PDGFRB": 0.8376,
+        "NOTCH3": 0.7506
+      },
+      "boundary": "The original experiments use different cluster namespaces. A single global cluster1 combines mural-like cells from enriched donors with unrelated cells from unenriched donors. Do not reuse that pooled label. No SMC/pericyte split is made.",
+      "source": "marker_cluster_means_by_experiment.csv and provisional_mural_annotation_marker_only.csv; original-paper numeric annotations were not used to select on PDE5A"
+    },
+    "primary_summaries": [
+      {
+        "unit": "donor_pooled_regions",
+        "region": "pooled",
+        "minimum_cells": 20,
+        "restriction": "all",
+        "annotation": "mural-like",
+        "donors_n": 7,
+        "observations_n": 7,
+        "total_cells": 975,
+        "total_positive_cells": 342,
+        "mean_percent": 31.4718519693,
+        "sample_sd_percent": 10.3262312395,
+        "min_percent": 22.5352112676,
+        "max_percent": 51.25,
+        "donors_with_positive_cells": 7,
+        "pooled_cell_percent": 35.0769230769,
+        "donor_ids": "1;2;3;4;5;6;7"
+      },
+      {
+        "unit": "donor_pooled_regions",
+        "region": "pooled",
+        "minimum_cells": 20,
+        "restriction": "no_noted_ophthalmologic_disease",
+        "annotation": "mural-like",
+        "donors_n": 5,
+        "observations_n": 5,
+        "total_cells": 664,
+        "total_positive_cells": 203,
+        "mean_percent": 29.3035505034,
+        "sample_sd_percent": 6.025777271,
+        "min_percent": 24.5283018868,
+        "max_percent": 36.5517241379,
+        "donors_with_positive_cells": 5,
+        "pooled_cell_percent": 30.5722891566,
+        "donor_ids": "1;2;5;6;7"
+      },
+      {
+        "unit": "donor_pooled_regions",
+        "region": "pooled",
+        "minimum_cells": 20,
+        "restriction": "unenriched",
+        "annotation": "mural-like",
+        "donors_n": 3,
+        "observations_n": 3,
+        "total_cells": 180,
+        "total_positive_cells": 43,
+        "mean_percent": 24.0211710515,
+        "sample_sd_percent": 1.3083127061,
+        "min_percent": 22.5352112676,
+        "max_percent": 25.0,
+        "donors_with_positive_cells": 3,
+        "pooled_cell_percent": 23.8888888889,
+        "donor_ids": "1;2;3"
+      },
+      {
+        "unit": "donor_pooled_regions",
+        "region": "pooled",
+        "minimum_cells": 20,
+        "restriction": "CD31_enriched",
+        "annotation": "mural-like",
+        "donors_n": 4,
+        "observations_n": 4,
+        "total_cells": 795,
+        "total_positive_cells": 299,
+        "mean_percent": 37.0598626576,
+        "sample_sd_percent": 10.7225860246,
+        "min_percent": 25.2336448598,
+        "max_percent": 51.25,
+        "donors_with_positive_cells": 4,
+        "pooled_cell_percent": 37.6100628931,
+        "donor_ids": "4;5;6;7"
+      }
+    ]
+  }
+}

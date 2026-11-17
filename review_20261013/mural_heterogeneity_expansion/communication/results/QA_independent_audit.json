@@ -1,0 +1,9 @@
+{
+  "score_rows_independently_checked": 100,
+  "max_score_absolute_error": 1.1493824247921225e-07,
+  "no_duplicate_donor_LR_pairs": true,
+  "all_inferential_tests_donors_ge5": true,
+  "primary_tested_LR": 1763,
+  "primary_BH_significant": 26,
+  "primary_positive_candidates": 0
+}

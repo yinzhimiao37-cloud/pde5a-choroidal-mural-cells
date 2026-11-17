@@ -1,0 +1,27 @@
+{
+  "status": "marker-only annotation reviewed and saved before new PDE5A summaries",
+  "annotation": "mural-like",
+  "mural_clusters": {
+    "unenriched": 5,
+    "CD31_enriched": 1
+  },
+  "evidence": "Within each experiment all four predefined mural markers have their largest cluster mean in the selected cluster; scaled composite score=1. Both RGS5 and ACTA2 rank first. AIF1/PTPRC are absent or low; EMCN/VWF and RPE65/BEST1 do not dominate these clusters.",
+  "unenriched_selected_cluster": {
+    "cluster": 5,
+    "cells": 180,
+    "RGS5": 2.6952,
+    "ACTA2": 2.844,
+    "PDGFRB": 0.5788,
+    "NOTCH3": 0.6995
+  },
+  "enriched_selected_cluster": {
+    "cluster": 1,
+    "cells": 795,
+    "RGS5": 3.2083,
+    "ACTA2": 2.4438,
+    "PDGFRB": 0.8376,
+    "NOTCH3": 0.7506
+  },
+  "boundary": "The original experiments use different cluster namespaces. A single global cluster1 combines mural-like cells from enriched donors with unrelated cells from unenriched donors. Do not reuse that pooled label. No SMC/pericyte split is made.",
+  "source": "marker_cluster_means_by_experiment.csv and provisional_mural_annotation_marker_only.csv; original-paper numeric annotations were not used to select on PDE5A"
+}

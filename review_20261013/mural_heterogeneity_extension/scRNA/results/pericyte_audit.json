@@ -1,0 +1,14 @@
+{
+  "celltype": "pericyte",
+  "n_cells": 1670,
+  "n_donors": 21,
+  "n_graph_components": 1,
+  "largest_component_fraction": 1.0,
+  "seed": 20261013,
+  "root_cells": [
+    "GTGTAACGTAATGATG-1_20",
+    "GATGACTTCTGTAAGC-1_11"
+  ],
+  "root_sensitivity_spearman": 0.899451957446526,
+  "trajectory_label": "Contractile-reference transcriptional distance; not aging time"
+}

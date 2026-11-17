@@ -1,0 +1,13 @@
+variant,cohort,tested_LR,candidate_LR,min_donors,max_donors,min_q,status
+high_vs_low_positive__nFeature_matched,all,1648,0,5.0,10.0,0.5082236842105263,evaluated
+high_vs_low_positive__nFeature_matched,control_only,0,0,,,,no LR with >=5 eligible donors
+high_vs_low_positive__nFeature_matched,exclude_known_shared,1523,0,5.0,9.0,0.6610243055555556,evaluated
+high_vs_low_positive__unmatched,all,1763,0,5.0,15.0,0.0293468128551136,evaluated
+high_vs_low_positive__unmatched,control_only,950,0,5.0,7.0,0.6524725274725274,evaluated
+high_vs_low_positive__unmatched,exclude_known_shared,1670,0,5.0,13.0,0.0906032986111111,evaluated
+high_vs_undetected__nFeature_matched,all,1185,0,5.0,14.0,0.173583984375,evaluated
+high_vs_undetected__nFeature_matched,control_only,417,0,5.0,6.0,0.5110294117647058,evaluated
+high_vs_undetected__nFeature_matched,exclude_known_shared,1124,0,5.0,12.0,0.13720703125,evaluated
+high_vs_undetected__unmatched,all,1398,189,5.0,15.0,0.0046122782939189,evaluated
+high_vs_undetected__unmatched,control_only,555,0,5.0,7.0,0.2089608433734939,evaluated
+high_vs_undetected__unmatched,exclude_known_shared,1219,134,5.0,13.0,0.01488037109375,evaluated

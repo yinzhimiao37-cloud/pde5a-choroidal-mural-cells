@@ -1,0 +1,18 @@
+{
+  "source_expression": "data/raw/GSE183320_all_normalized_expression_data.csv.gz",
+  "source_metadata": "data/raw/GSE183320_all_metadata.csv.gz",
+  "n_cells": 22438,
+  "n_genes": 38120,
+  "celltypes": {
+    "vein": 7272,
+    "artery": 5901,
+    "choriocapillaris": 2469,
+    "macrophage-inf": 2186,
+    "macrophage-res": 1694,
+    "pericyte": 1670,
+    "SMC": 996,
+    "ec_unknown": 250
+  },
+  "expression_transform": "none",
+  "matrix_is_raw_counts": false
+}

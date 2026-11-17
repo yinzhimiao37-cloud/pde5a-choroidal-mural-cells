@@ -1,0 +1,7 @@
+donor,experiment,health,annotation,cells_n,positive_n,expression_sum,positivity_percent,mean_published_normalized_expression,eligible_primary_20cells,restriction
+1,unenriched,no_noted_ophthalmologic_disease,mural-like,56,14,13.435631283263069,25.0,0.2399219872011262,True,exclude_documented_shared_donors
+2,unenriched,no_noted_ophthalmologic_disease,mural-like,53,13,10.09039730916036,24.52830188679245,0.1903848548898181,True,exclude_documented_shared_donors
+3,unenriched,AMD,mural-like,71,16,11.472817645175695,22.535211267605632,0.1615889809179675,True,exclude_documented_shared_donors
+1,unenriched,no_noted_ophthalmologic_disease,mural-like,56,14,13.435631283263069,25.0,0.2399219872011262,True,original_no_noted_disease_exclude_discordant_donors5_6
+2,unenriched,no_noted_ophthalmologic_disease,mural-like,53,13,10.09039730916036,24.52830188679245,0.1903848548898181,True,original_no_noted_disease_exclude_discordant_donors5_6
+7,CD31_enriched,no_noted_ophthalmologic_disease,mural-like,214,54,42.3081925226354,25.233644859813083,0.1977018342179224,True,original_no_noted_disease_exclude_discordant_donors5_6

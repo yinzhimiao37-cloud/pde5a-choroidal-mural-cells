@@ -1,0 +1,1 @@
+mural_type,target,ligand_complex,receptor_complex,donors_n,donor_ids,mean_delta,sd_delta,bootstrap95_low,bootstrap95_high,positive_fraction,p_value,test,loo_mean_min,loo_mean_max,loo_positive_all,mean_high,mean_comparator,q_BH,variant,cohort,candidate_support

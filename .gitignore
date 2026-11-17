@@ -1,0 +1,21 @@
+# Raw public input must be obtained from the original repositories.
+data/
+*.h5
+*.h5ad
+*.parquet
+*.parquet.gz
+*.duckdb
+*.sqlite
+*.db
+*.zip
+*.log
+__pycache__/
+*.pyc
+.runtime/
+.venv/
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+review_20261013/mural_PDE5A_validation/spatial_GSE318037/input/*
+!review_20261013/mural_PDE5A_validation/spatial_GSE318037/input/download_manifest.json

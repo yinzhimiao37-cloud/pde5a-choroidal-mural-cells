@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "PDE5A heterogeneity in human choroidal mural cells"
+repository-code: "https://github.com/yinzhimiao37-cloud/pde5a-choroidal-mural-cells"
+message: "Please cite this repository and the associated manuscript. The manuscript is not represented as accepted or published."
+type: software
+authors:
+  - family-names: Yin
+    given-names: Zhimiao
+  - family-names: Xiao
+    given-names: Feng
+  - family-names: Li
+    given-names: Rong
+year: 2026
+license: MIT

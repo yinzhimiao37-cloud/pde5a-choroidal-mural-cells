@@ -1,0 +1,17 @@
+{
+  "timing": "added after primary statistics on discovery of accession-level sample reuse and clinical-label discordance",
+  "selection_basis": "metadata only, not PDE5A results",
+  "documented_shared_original_donors": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "source_specific_no_noted_disease_map": "retained in primary analysis; not asserted healthy across all publications",
+  "conservative_health_exclusion": "exclude both original donor5 and donor6 because cross-paper age/sex and revised AMD labels cannot be reconciled confidently",
+  "input_sha256": {
+    "PDE5A_mural_donor_pooled_regions.csv": "ca8e64d818576f001743f70e6b20bcbed236febea6d52f7e7555999134e9cb15",
+    "documented_sample_reuse.csv": "963e808fa7d150392918da0fe7e8048b755c92519e47ddb0fc1546422ef176b0"
+  },
+  "script_sha256": "e9e0a7a5875ab0b1ecf1a3090eba8e187633485ee32524bee50b30bdcf4ae368"
+}

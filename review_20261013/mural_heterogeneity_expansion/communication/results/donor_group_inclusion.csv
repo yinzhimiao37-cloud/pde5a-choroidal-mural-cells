@@ -1,0 +1,337 @@
+donor_id,disease_status,mural_type,target,variant,high_n,comparator_n,receiver_n,eligible,reason
+1,control,SMC,endothelial,high_vs_low_positive__unmatched,6,6,1339,False,sender<10 or receiver<20
+1,control,SMC,macrophage,high_vs_low_positive__unmatched,6,6,17,False,sender<10 or receiver<20
+1,control,pericyte,endothelial,high_vs_low_positive__unmatched,9,10,1339,False,sender<10 or receiver<20
+1,control,pericyte,macrophage,high_vs_low_positive__unmatched,9,10,17,False,sender<10 or receiver<20
+1,control,SMC,endothelial,high_vs_low_positive__nFeature_matched,4,4,1339,False,sender<10 or receiver<20
+1,control,SMC,macrophage,high_vs_low_positive__nFeature_matched,4,4,17,False,sender<10 or receiver<20
+1,control,pericyte,endothelial,high_vs_low_positive__nFeature_matched,4,4,1339,False,sender<10 or receiver<20
+1,control,pericyte,macrophage,high_vs_low_positive__nFeature_matched,4,4,17,False,sender<10 or receiver<20
+1,control,SMC,endothelial,high_vs_undetected__unmatched,6,9,1339,False,sender<10 or receiver<20
+1,control,SMC,macrophage,high_vs_undetected__unmatched,6,9,17,False,sender<10 or receiver<20
+1,control,pericyte,endothelial,high_vs_undetected__unmatched,9,29,1339,False,sender<10 or receiver<20
+1,control,pericyte,macrophage,high_vs_undetected__unmatched,9,29,17,False,sender<10 or receiver<20
+1,control,SMC,endothelial,high_vs_undetected__nFeature_matched,6,6,1339,False,sender<10 or receiver<20
+1,control,SMC,macrophage,high_vs_undetected__nFeature_matched,6,6,17,False,sender<10 or receiver<20
+1,control,pericyte,endothelial,high_vs_undetected__nFeature_matched,9,9,1339,False,sender<10 or receiver<20
+1,control,pericyte,macrophage,high_vs_undetected__nFeature_matched,9,9,17,False,sender<10 or receiver<20
+2,control,SMC,endothelial,high_vs_low_positive__unmatched,1,2,435,False,sender<10 or receiver<20
+2,control,SMC,macrophage,high_vs_low_positive__unmatched,1,2,480,False,sender<10 or receiver<20
+2,control,pericyte,endothelial,high_vs_low_positive__unmatched,8,9,435,False,sender<10 or receiver<20
+2,control,pericyte,macrophage,high_vs_low_positive__unmatched,8,9,480,False,sender<10 or receiver<20
+2,control,SMC,endothelial,high_vs_low_positive__nFeature_matched,0,0,435,False,sender<10 or receiver<20
+2,control,SMC,macrophage,high_vs_low_positive__nFeature_matched,0,0,480,False,sender<10 or receiver<20
+2,control,pericyte,endothelial,high_vs_low_positive__nFeature_matched,5,5,435,False,sender<10 or receiver<20
+2,control,pericyte,macrophage,high_vs_low_positive__nFeature_matched,5,5,480,False,sender<10 or receiver<20
+2,control,SMC,endothelial,high_vs_undetected__unmatched,1,18,435,False,sender<10 or receiver<20
+2,control,SMC,macrophage,high_vs_undetected__unmatched,1,18,480,False,sender<10 or receiver<20
+2,control,pericyte,endothelial,high_vs_undetected__unmatched,8,38,435,False,sender<10 or receiver<20
+2,control,pericyte,macrophage,high_vs_undetected__unmatched,8,38,480,False,sender<10 or receiver<20
+2,control,SMC,endothelial,high_vs_undetected__nFeature_matched,1,1,435,False,sender<10 or receiver<20
+2,control,SMC,macrophage,high_vs_undetected__nFeature_matched,1,1,480,False,sender<10 or receiver<20
+2,control,pericyte,endothelial,high_vs_undetected__nFeature_matched,8,8,435,False,sender<10 or receiver<20
+2,control,pericyte,macrophage,high_vs_undetected__nFeature_matched,8,8,480,False,sender<10 or receiver<20
+3,control,SMC,endothelial,high_vs_low_positive__unmatched,13,14,668,True,eligible
+3,control,SMC,macrophage,high_vs_low_positive__unmatched,13,14,224,True,eligible
+3,control,pericyte,endothelial,high_vs_low_positive__unmatched,14,15,668,True,eligible
+3,control,pericyte,macrophage,high_vs_low_positive__unmatched,14,15,224,True,eligible
+3,control,SMC,endothelial,high_vs_low_positive__nFeature_matched,8,8,668,False,sender<10 or receiver<20
+3,control,SMC,macrophage,high_vs_low_positive__nFeature_matched,8,8,224,False,sender<10 or receiver<20
+3,control,pericyte,endothelial,high_vs_low_positive__nFeature_matched,6,6,668,False,sender<10 or receiver<20
+3,control,pericyte,macrophage,high_vs_low_positive__nFeature_matched,6,6,224,False,sender<10 or receiver<20
+3,control,SMC,endothelial,high_vs_undetected__unmatched,13,44,668,True,eligible
+3,control,SMC,macrophage,high_vs_undetected__unmatched,13,44,224,True,eligible
+3,control,pericyte,endothelial,high_vs_undetected__unmatched,14,60,668,True,eligible
+3,control,pericyte,macrophage,high_vs_undetected__unmatched,14,60,224,True,eligible
+3,control,SMC,endothelial,high_vs_undetected__nFeature_matched,13,13,668,True,eligible
+3,control,SMC,macrophage,high_vs_undetected__nFeature_matched,13,13,224,True,eligible
+3,control,pericyte,endothelial,high_vs_undetected__nFeature_matched,14,14,668,True,eligible
+3,control,pericyte,macrophage,high_vs_undetected__nFeature_matched,14,14,224,True,eligible
+4,control,SMC,endothelial,high_vs_low_positive__unmatched,21,22,303,True,eligible
+4,control,SMC,macrophage,high_vs_low_positive__unmatched,21,22,254,True,eligible
+4,control,pericyte,endothelial,high_vs_low_positive__unmatched,18,19,303,True,eligible
+4,control,pericyte,macrophage,high_vs_low_positive__unmatched,18,19,254,True,eligible
+4,control,SMC,endothelial,high_vs_low_positive__nFeature_matched,19,19,303,True,eligible
+4,control,SMC,macrophage,high_vs_low_positive__nFeature_matched,19,19,254,True,eligible
+4,control,pericyte,endothelial,high_vs_low_positive__nFeature_matched,12,12,303,True,eligible
+4,control,pericyte,macrophage,high_vs_low_positive__nFeature_matched,12,12,254,True,eligible
+4,control,SMC,endothelial,high_vs_undetected__unmatched,21,7,303,False,sender<10 or receiver<20
+4,control,SMC,macrophage,high_vs_undetected__unmatched,21,7,254,False,sender<10 or receiver<20
+4,control,pericyte,endothelial,high_vs_undetected__unmatched,18,38,303,True,eligible
+4,control,pericyte,macrophage,high_vs_undetected__unmatched,18,38,254,True,eligible
+4,control,SMC,endothelial,high_vs_undetected__nFeature_matched,4,4,303,False,sender<10 or receiver<20
+4,control,SMC,macrophage,high_vs_undetected__nFeature_matched,4,4,254,False,sender<10 or receiver<20
+4,control,pericyte,endothelial,high_vs_undetected__nFeature_matched,16,16,303,True,eligible
+4,control,pericyte,macrophage,high_vs_undetected__nFeature_matched,16,16,254,True,eligible
+5,control,SMC,endothelial,high_vs_low_positive__unmatched,72,72,483,True,eligible
+5,control,SMC,macrophage,high_vs_low_positive__unmatched,72,72,202,True,eligible
+5,control,pericyte,endothelial,high_vs_low_positive__unmatched,36,37,483,True,eligible
+5,control,pericyte,macrophage,high_vs_low_positive__unmatched,36,37,202,True,eligible
+5,control,SMC,endothelial,high_vs_low_positive__nFeature_matched,64,64,483,True,eligible
+5,control,SMC,macrophage,high_vs_low_positive__nFeature_matched,64,64,202,True,eligible
+5,control,pericyte,endothelial,high_vs_low_positive__nFeature_matched,23,23,483,True,eligible
+5,control,pericyte,macrophage,high_vs_low_positive__nFeature_matched,23,23,202,True,eligible
+5,control,SMC,endothelial,high_vs_undetected__unmatched,72,75,483,True,eligible
+5,control,SMC,macrophage,high_vs_undetected__unmatched,72,75,202,True,eligible
+5,control,pericyte,endothelial,high_vs_undetected__unmatched,36,76,483,True,eligible
+5,control,pericyte,macrophage,high_vs_undetected__unmatched,36,76,202,True,eligible
+5,control,SMC,endothelial,high_vs_undetected__nFeature_matched,45,45,483,True,eligible
+5,control,SMC,macrophage,high_vs_undetected__nFeature_matched,45,45,202,True,eligible
+5,control,pericyte,endothelial,high_vs_undetected__nFeature_matched,36,36,483,True,eligible
+5,control,pericyte,macrophage,high_vs_undetected__nFeature_matched,36,36,202,True,eligible
+6,control,SMC,endothelial,high_vs_low_positive__unmatched,16,17,207,True,eligible
+6,control,SMC,macrophage,high_vs_low_positive__unmatched,16,17,46,True,eligible
+6,control,pericyte,endothelial,high_vs_low_positive__unmatched,11,12,207,True,eligible
+6,control,pericyte,macrophage,high_vs_low_positive__unmatched,11,12,46,True,eligible
+6,control,SMC,endothelial,high_vs_low_positive__nFeature_matched,15,15,207,True,eligible
+6,control,SMC,macrophage,high_vs_low_positive__nFeature_matched,15,15,46,True,eligible
+6,control,pericyte,endothelial,high_vs_low_positive__nFeature_matched,8,8,207,False,sender<10 or receiver<20
+6,control,pericyte,macrophage,high_vs_low_positive__nFeature_matched,8,8,46,False,sender<10 or receiver<20
+6,control,SMC,endothelial,high_vs_undetected__unmatched,16,4,207,False,sender<10 or receiver<20
+6,control,SMC,macrophage,high_vs_undetected__unmatched,16,4,46,False,sender<10 or receiver<20
+6,control,pericyte,endothelial,high_vs_undetected__unmatched,11,18,207,True,eligible
+6,control,pericyte,macrophage,high_vs_undetected__unmatched,11,18,46,True,eligible
+6,control,SMC,endothelial,high_vs_undetected__nFeature_matched,4,4,207,False,sender<10 or receiver<20
+6,control,SMC,macrophage,high_vs_undetected__nFeature_matched,4,4,46,False,sender<10 or receiver<20
+6,control,pericyte,endothelial,high_vs_undetected__nFeature_matched,9,9,207,False,sender<10 or receiver<20
+6,control,pericyte,macrophage,high_vs_undetected__nFeature_matched,9,9,46,False,sender<10 or receiver<20
+7,control,SMC,endothelial,high_vs_low_positive__unmatched,5,6,130,False,sender<10 or receiver<20
+7,control,SMC,macrophage,high_vs_low_positive__unmatched,5,6,16,False,sender<10 or receiver<20
+7,control,pericyte,endothelial,high_vs_low_positive__unmatched,6,6,130,False,sender<10 or receiver<20
+7,control,pericyte,macrophage,high_vs_low_positive__unmatched,6,6,16,False,sender<10 or receiver<20
+7,control,SMC,endothelial,high_vs_low_positive__nFeature_matched,3,3,130,False,sender<10 or receiver<20
+7,control,SMC,macrophage,high_vs_low_positive__nFeature_matched,3,3,16,False,sender<10 or receiver<20
+7,control,pericyte,endothelial,high_vs_low_positive__nFeature_matched,0,0,130,False,sender<10 or receiver<20
+7,control,pericyte,macrophage,high_vs_low_positive__nFeature_matched,0,0,16,False,sender<10 or receiver<20
+7,control,SMC,endothelial,high_vs_undetected__unmatched,5,3,130,False,sender<10 or receiver<20
+7,control,SMC,macrophage,high_vs_undetected__unmatched,5,3,16,False,sender<10 or receiver<20
+7,control,pericyte,endothelial,high_vs_undetected__unmatched,6,13,130,False,sender<10 or receiver<20
+7,control,pericyte,macrophage,high_vs_undetected__unmatched,6,13,16,False,sender<10 or receiver<20
+7,control,SMC,endothelial,high_vs_undetected__nFeature_matched,3,3,130,False,sender<10 or receiver<20
+7,control,SMC,macrophage,high_vs_undetected__nFeature_matched,3,3,16,False,sender<10 or receiver<20
+7,control,pericyte,endothelial,high_vs_undetected__nFeature_matched,5,5,130,False,sender<10 or receiver<20
+7,control,pericyte,macrophage,high_vs_undetected__nFeature_matched,5,5,16,False,sender<10 or receiver<20
+8,control,SMC,endothelial,high_vs_low_positive__unmatched,8,8,1265,False,sender<10 or receiver<20
+8,control,SMC,macrophage,high_vs_low_positive__unmatched,8,8,550,False,sender<10 or receiver<20
+8,control,pericyte,endothelial,high_vs_low_positive__unmatched,24,24,1265,True,eligible
+8,control,pericyte,macrophage,high_vs_low_positive__unmatched,24,24,550,True,eligible
+8,control,SMC,endothelial,high_vs_low_positive__nFeature_matched,6,6,1265,False,sender<10 or receiver<20
+8,control,SMC,macrophage,high_vs_low_positive__nFeature_matched,6,6,550,False,sender<10 or receiver<20
+8,control,pericyte,endothelial,high_vs_low_positive__nFeature_matched,14,14,1265,True,eligible
+8,control,pericyte,macrophage,high_vs_low_positive__nFeature_matched,14,14,550,True,eligible
+8,control,SMC,endothelial,high_vs_undetected__unmatched,8,9,1265,False,sender<10 or receiver<20
+8,control,SMC,macrophage,high_vs_undetected__unmatched,8,9,550,False,sender<10 or receiver<20
+8,control,pericyte,endothelial,high_vs_undetected__unmatched,24,29,1265,True,eligible
+8,control,pericyte,macrophage,high_vs_undetected__unmatched,24,29,550,True,eligible
+8,control,SMC,endothelial,high_vs_undetected__nFeature_matched,5,5,1265,False,sender<10 or receiver<20
+8,control,SMC,macrophage,high_vs_undetected__nFeature_matched,5,5,550,False,sender<10 or receiver<20
+8,control,pericyte,endothelial,high_vs_undetected__nFeature_matched,20,20,1265,True,eligible
+8,control,pericyte,macrophage,high_vs_undetected__nFeature_matched,20,20,550,True,eligible
+9,control,SMC,endothelial,high_vs_low_positive__unmatched,13,14,232,True,eligible
+9,control,SMC,macrophage,high_vs_low_positive__unmatched,13,14,74,True,eligible
+9,control,pericyte,endothelial,high_vs_low_positive__unmatched,16,16,232,True,eligible
+9,control,pericyte,macrophage,high_vs_low_positive__unmatched,16,16,74,True,eligible
+9,control,SMC,endothelial,high_vs_low_positive__nFeature_matched,12,12,232,True,eligible
+9,control,SMC,macrophage,high_vs_low_positive__nFeature_matched,12,12,74,True,eligible
+9,control,pericyte,endothelial,high_vs_low_positive__nFeature_matched,8,8,232,False,sender<10 or receiver<20
+9,control,pericyte,macrophage,high_vs_low_positive__nFeature_matched,8,8,74,False,sender<10 or receiver<20
+9,control,SMC,endothelial,high_vs_undetected__unmatched,13,6,232,False,sender<10 or receiver<20
+9,control,SMC,macrophage,high_vs_undetected__unmatched,13,6,74,False,sender<10 or receiver<20
+9,control,pericyte,endothelial,high_vs_undetected__unmatched,16,15,232,True,eligible
+9,control,pericyte,macrophage,high_vs_undetected__unmatched,16,15,74,True,eligible
+9,control,SMC,endothelial,high_vs_undetected__nFeature_matched,3,3,232,False,sender<10 or receiver<20
+9,control,SMC,macrophage,high_vs_undetected__nFeature_matched,3,3,74,False,sender<10 or receiver<20
+9,control,pericyte,endothelial,high_vs_undetected__nFeature_matched,13,13,232,True,eligible
+9,control,pericyte,macrophage,high_vs_undetected__nFeature_matched,13,13,74,True,eligible
+10,control,SMC,endothelial,high_vs_low_positive__unmatched,7,8,526,False,sender<10 or receiver<20
+10,control,SMC,macrophage,high_vs_low_positive__unmatched,7,8,94,False,sender<10 or receiver<20
+10,control,pericyte,endothelial,high_vs_low_positive__unmatched,17,18,526,True,eligible
+10,control,pericyte,macrophage,high_vs_low_positive__unmatched,17,18,94,True,eligible
+10,control,SMC,endothelial,high_vs_low_positive__nFeature_matched,5,5,526,False,sender<10 or receiver<20
+10,control,SMC,macrophage,high_vs_low_positive__nFeature_matched,5,5,94,False,sender<10 or receiver<20
+10,control,pericyte,endothelial,high_vs_low_positive__nFeature_matched,16,16,526,True,eligible
+10,control,pericyte,macrophage,high_vs_low_positive__nFeature_matched,16,16,94,True,eligible
+10,control,SMC,endothelial,high_vs_undetected__unmatched,7,4,526,False,sender<10 or receiver<20
+10,control,SMC,macrophage,high_vs_undetected__unmatched,7,4,94,False,sender<10 or receiver<20
+10,control,pericyte,endothelial,high_vs_undetected__unmatched,17,32,526,True,eligible
+10,control,pericyte,macrophage,high_vs_undetected__unmatched,17,32,94,True,eligible
+10,control,SMC,endothelial,high_vs_undetected__nFeature_matched,3,3,526,False,sender<10 or receiver<20
+10,control,SMC,macrophage,high_vs_undetected__nFeature_matched,3,3,94,False,sender<10 or receiver<20
+10,control,pericyte,endothelial,high_vs_undetected__nFeature_matched,11,11,526,True,eligible
+10,control,pericyte,macrophage,high_vs_undetected__nFeature_matched,11,11,94,True,eligible
+11,nAMD,SMC,endothelial,high_vs_low_positive__unmatched,14,15,1658,True,eligible
+11,nAMD,SMC,macrophage,high_vs_low_positive__unmatched,14,15,116,True,eligible
+11,nAMD,pericyte,endothelial,high_vs_low_positive__unmatched,26,26,1658,True,eligible
+11,nAMD,pericyte,macrophage,high_vs_low_positive__unmatched,26,26,116,True,eligible
+11,nAMD,SMC,endothelial,high_vs_low_positive__nFeature_matched,12,12,1658,True,eligible
+11,nAMD,SMC,macrophage,high_vs_low_positive__nFeature_matched,12,12,116,True,eligible
+11,nAMD,pericyte,endothelial,high_vs_low_positive__nFeature_matched,15,15,1658,True,eligible
+11,nAMD,pericyte,macrophage,high_vs_low_positive__nFeature_matched,15,15,116,True,eligible
+11,nAMD,SMC,endothelial,high_vs_undetected__unmatched,14,14,1658,True,eligible
+11,nAMD,SMC,macrophage,high_vs_undetected__unmatched,14,14,116,True,eligible
+11,nAMD,pericyte,endothelial,high_vs_undetected__unmatched,26,40,1658,True,eligible
+11,nAMD,pericyte,macrophage,high_vs_undetected__unmatched,26,40,116,True,eligible
+11,nAMD,SMC,endothelial,high_vs_undetected__nFeature_matched,2,2,1658,False,sender<10 or receiver<20
+11,nAMD,SMC,macrophage,high_vs_undetected__nFeature_matched,2,2,116,False,sender<10 or receiver<20
+11,nAMD,pericyte,endothelial,high_vs_undetected__nFeature_matched,23,23,1658,True,eligible
+11,nAMD,pericyte,macrophage,high_vs_undetected__nFeature_matched,23,23,116,True,eligible
+12,AMD,SMC,endothelial,high_vs_low_positive__unmatched,7,8,1041,False,sender<10 or receiver<20
+12,AMD,SMC,macrophage,high_vs_low_positive__unmatched,7,8,43,False,sender<10 or receiver<20
+12,AMD,pericyte,endothelial,high_vs_low_positive__unmatched,10,11,1041,True,eligible
+12,AMD,pericyte,macrophage,high_vs_low_positive__unmatched,10,11,43,True,eligible
+12,AMD,SMC,endothelial,high_vs_low_positive__nFeature_matched,4,4,1041,False,sender<10 or receiver<20
+12,AMD,SMC,macrophage,high_vs_low_positive__nFeature_matched,4,4,43,False,sender<10 or receiver<20
+12,AMD,pericyte,endothelial,high_vs_low_positive__nFeature_matched,7,7,1041,False,sender<10 or receiver<20
+12,AMD,pericyte,macrophage,high_vs_low_positive__nFeature_matched,7,7,43,False,sender<10 or receiver<20
+12,AMD,SMC,endothelial,high_vs_undetected__unmatched,7,8,1041,False,sender<10 or receiver<20
+12,AMD,SMC,macrophage,high_vs_undetected__unmatched,7,8,43,False,sender<10 or receiver<20
+12,AMD,pericyte,endothelial,high_vs_undetected__unmatched,10,42,1041,True,eligible
+12,AMD,pericyte,macrophage,high_vs_undetected__unmatched,10,42,43,True,eligible
+12,AMD,SMC,endothelial,high_vs_undetected__nFeature_matched,5,5,1041,False,sender<10 or receiver<20
+12,AMD,SMC,macrophage,high_vs_undetected__nFeature_matched,5,5,43,False,sender<10 or receiver<20
+12,AMD,pericyte,endothelial,high_vs_undetected__nFeature_matched,10,10,1041,True,eligible
+12,AMD,pericyte,macrophage,high_vs_undetected__nFeature_matched,10,10,43,True,eligible
+13,AMD,SMC,endothelial,high_vs_low_positive__unmatched,7,7,215,False,sender<10 or receiver<20
+13,AMD,SMC,macrophage,high_vs_low_positive__unmatched,7,7,50,False,sender<10 or receiver<20
+13,AMD,pericyte,endothelial,high_vs_low_positive__unmatched,1,1,215,False,sender<10 or receiver<20
+13,AMD,pericyte,macrophage,high_vs_low_positive__unmatched,1,1,50,False,sender<10 or receiver<20
+13,AMD,SMC,endothelial,high_vs_low_positive__nFeature_matched,2,2,215,False,sender<10 or receiver<20
+13,AMD,SMC,macrophage,high_vs_low_positive__nFeature_matched,2,2,50,False,sender<10 or receiver<20
+13,AMD,pericyte,endothelial,high_vs_low_positive__nFeature_matched,0,0,215,False,sender<10 or receiver<20
+13,AMD,pericyte,macrophage,high_vs_low_positive__nFeature_matched,0,0,50,False,sender<10 or receiver<20
+13,AMD,SMC,endothelial,high_vs_undetected__unmatched,7,11,215,False,sender<10 or receiver<20
+13,AMD,SMC,macrophage,high_vs_undetected__unmatched,7,11,50,False,sender<10 or receiver<20
+13,AMD,pericyte,endothelial,high_vs_undetected__unmatched,1,21,215,False,sender<10 or receiver<20
+13,AMD,pericyte,macrophage,high_vs_undetected__unmatched,1,21,50,False,sender<10 or receiver<20
+13,AMD,SMC,endothelial,high_vs_undetected__nFeature_matched,6,6,215,False,sender<10 or receiver<20
+13,AMD,SMC,macrophage,high_vs_undetected__nFeature_matched,6,6,50,False,sender<10 or receiver<20
+13,AMD,pericyte,endothelial,high_vs_undetected__nFeature_matched,1,1,215,False,sender<10 or receiver<20
+13,AMD,pericyte,macrophage,high_vs_undetected__nFeature_matched,1,1,50,False,sender<10 or receiver<20
+14,AMD,SMC,endothelial,high_vs_low_positive__unmatched,9,9,291,False,sender<10 or receiver<20
+14,AMD,SMC,macrophage,high_vs_low_positive__unmatched,9,9,48,False,sender<10 or receiver<20
+14,AMD,pericyte,endothelial,high_vs_low_positive__unmatched,14,14,291,True,eligible
+14,AMD,pericyte,macrophage,high_vs_low_positive__unmatched,14,14,48,True,eligible
+14,AMD,SMC,endothelial,high_vs_low_positive__nFeature_matched,8,8,291,False,sender<10 or receiver<20
+14,AMD,SMC,macrophage,high_vs_low_positive__nFeature_matched,8,8,48,False,sender<10 or receiver<20
+14,AMD,pericyte,endothelial,high_vs_low_positive__nFeature_matched,7,7,291,False,sender<10 or receiver<20
+14,AMD,pericyte,macrophage,high_vs_low_positive__nFeature_matched,7,7,48,False,sender<10 or receiver<20
+14,AMD,SMC,endothelial,high_vs_undetected__unmatched,9,8,291,False,sender<10 or receiver<20
+14,AMD,SMC,macrophage,high_vs_undetected__unmatched,9,8,48,False,sender<10 or receiver<20
+14,AMD,pericyte,endothelial,high_vs_undetected__unmatched,14,39,291,True,eligible
+14,AMD,pericyte,macrophage,high_vs_undetected__unmatched,14,39,48,True,eligible
+14,AMD,SMC,endothelial,high_vs_undetected__nFeature_matched,5,5,291,False,sender<10 or receiver<20
+14,AMD,SMC,macrophage,high_vs_undetected__nFeature_matched,5,5,48,False,sender<10 or receiver<20
+14,AMD,pericyte,endothelial,high_vs_undetected__nFeature_matched,14,14,291,True,eligible
+14,AMD,pericyte,macrophage,high_vs_undetected__nFeature_matched,14,14,48,True,eligible
+15,AMD,SMC,endothelial,high_vs_low_positive__unmatched,45,46,375,True,eligible
+15,AMD,SMC,macrophage,high_vs_low_positive__unmatched,45,46,156,True,eligible
+15,AMD,pericyte,endothelial,high_vs_low_positive__unmatched,57,57,375,True,eligible
+15,AMD,pericyte,macrophage,high_vs_low_positive__unmatched,57,57,156,True,eligible
+15,AMD,SMC,endothelial,high_vs_low_positive__nFeature_matched,39,39,375,True,eligible
+15,AMD,SMC,macrophage,high_vs_low_positive__nFeature_matched,39,39,156,True,eligible
+15,AMD,pericyte,endothelial,high_vs_low_positive__nFeature_matched,42,42,375,True,eligible
+15,AMD,pericyte,macrophage,high_vs_low_positive__nFeature_matched,42,42,156,True,eligible
+15,AMD,SMC,endothelial,high_vs_undetected__unmatched,45,17,375,True,eligible
+15,AMD,SMC,macrophage,high_vs_undetected__unmatched,45,17,156,True,eligible
+15,AMD,pericyte,endothelial,high_vs_undetected__unmatched,57,104,375,True,eligible
+15,AMD,pericyte,macrophage,high_vs_undetected__unmatched,57,104,156,True,eligible
+15,AMD,SMC,endothelial,high_vs_undetected__nFeature_matched,17,17,375,True,eligible
+15,AMD,SMC,macrophage,high_vs_undetected__nFeature_matched,17,17,156,True,eligible
+15,AMD,pericyte,endothelial,high_vs_undetected__nFeature_matched,45,45,375,True,eligible
+15,AMD,pericyte,macrophage,high_vs_undetected__nFeature_matched,45,45,156,True,eligible
+16,AMD,SMC,endothelial,high_vs_low_positive__unmatched,28,28,1609,True,eligible
+16,AMD,SMC,macrophage,high_vs_low_positive__unmatched,28,28,85,True,eligible
+16,AMD,pericyte,endothelial,high_vs_low_positive__unmatched,51,52,1609,True,eligible
+16,AMD,pericyte,macrophage,high_vs_low_positive__unmatched,51,52,85,True,eligible
+16,AMD,SMC,endothelial,high_vs_low_positive__nFeature_matched,24,24,1609,True,eligible
+16,AMD,SMC,macrophage,high_vs_low_positive__nFeature_matched,24,24,85,True,eligible
+16,AMD,pericyte,endothelial,high_vs_low_positive__nFeature_matched,43,43,1609,True,eligible
+16,AMD,pericyte,macrophage,high_vs_low_positive__nFeature_matched,43,43,85,True,eligible
+16,AMD,SMC,endothelial,high_vs_undetected__unmatched,28,13,1609,True,eligible
+16,AMD,SMC,macrophage,high_vs_undetected__unmatched,28,13,85,True,eligible
+16,AMD,pericyte,endothelial,high_vs_undetected__unmatched,51,57,1609,True,eligible
+16,AMD,pericyte,macrophage,high_vs_undetected__unmatched,51,57,85,True,eligible
+16,AMD,SMC,endothelial,high_vs_undetected__nFeature_matched,10,10,1609,True,eligible
+16,AMD,SMC,macrophage,high_vs_undetected__nFeature_matched,10,10,85,True,eligible
+16,AMD,pericyte,endothelial,high_vs_undetected__nFeature_matched,33,33,1609,True,eligible
+16,AMD,pericyte,macrophage,high_vs_undetected__nFeature_matched,33,33,85,True,eligible
+17,AMD,SMC,endothelial,high_vs_low_positive__unmatched,33,34,1823,True,eligible
+17,AMD,SMC,macrophage,high_vs_low_positive__unmatched,33,34,554,True,eligible
+17,AMD,pericyte,endothelial,high_vs_low_positive__unmatched,46,46,1823,True,eligible
+17,AMD,pericyte,macrophage,high_vs_low_positive__unmatched,46,46,554,True,eligible
+17,AMD,SMC,endothelial,high_vs_low_positive__nFeature_matched,30,30,1823,True,eligible
+17,AMD,SMC,macrophage,high_vs_low_positive__nFeature_matched,30,30,554,True,eligible
+17,AMD,pericyte,endothelial,high_vs_low_positive__nFeature_matched,37,37,1823,True,eligible
+17,AMD,pericyte,macrophage,high_vs_low_positive__nFeature_matched,37,37,554,True,eligible
+17,AMD,SMC,endothelial,high_vs_undetected__unmatched,33,13,1823,True,eligible
+17,AMD,SMC,macrophage,high_vs_undetected__unmatched,33,13,554,True,eligible
+17,AMD,pericyte,endothelial,high_vs_undetected__unmatched,46,70,1823,True,eligible
+17,AMD,pericyte,macrophage,high_vs_undetected__unmatched,46,70,554,True,eligible
+17,AMD,SMC,endothelial,high_vs_undetected__nFeature_matched,13,13,1823,True,eligible
+17,AMD,SMC,macrophage,high_vs_undetected__nFeature_matched,13,13,554,True,eligible
+17,AMD,pericyte,endothelial,high_vs_undetected__nFeature_matched,35,35,1823,True,eligible
+17,AMD,pericyte,macrophage,high_vs_undetected__nFeature_matched,35,35,554,True,eligible
+18,nAMD,SMC,endothelial,high_vs_low_positive__unmatched,10,11,492,True,eligible
+18,nAMD,SMC,macrophage,high_vs_low_positive__unmatched,10,11,87,True,eligible
+18,nAMD,pericyte,endothelial,high_vs_low_positive__unmatched,24,25,492,True,eligible
+18,nAMD,pericyte,macrophage,high_vs_low_positive__unmatched,24,25,87,True,eligible
+18,nAMD,SMC,endothelial,high_vs_low_positive__nFeature_matched,8,8,492,False,sender<10 or receiver<20
+18,nAMD,SMC,macrophage,high_vs_low_positive__nFeature_matched,8,8,87,False,sender<10 or receiver<20
+18,nAMD,pericyte,endothelial,high_vs_low_positive__nFeature_matched,17,17,492,True,eligible
+18,nAMD,pericyte,macrophage,high_vs_low_positive__nFeature_matched,17,17,87,True,eligible
+18,nAMD,SMC,endothelial,high_vs_undetected__unmatched,10,8,492,False,sender<10 or receiver<20
+18,nAMD,SMC,macrophage,high_vs_undetected__unmatched,10,8,87,False,sender<10 or receiver<20
+18,nAMD,pericyte,endothelial,high_vs_undetected__unmatched,24,20,492,True,eligible
+18,nAMD,pericyte,macrophage,high_vs_undetected__unmatched,24,20,87,True,eligible
+18,nAMD,SMC,endothelial,high_vs_undetected__nFeature_matched,5,5,492,False,sender<10 or receiver<20
+18,nAMD,SMC,macrophage,high_vs_undetected__nFeature_matched,5,5,87,False,sender<10 or receiver<20
+18,nAMD,pericyte,endothelial,high_vs_undetected__nFeature_matched,12,12,492,True,eligible
+18,nAMD,pericyte,macrophage,high_vs_undetected__nFeature_matched,12,12,87,True,eligible
+19,AMD,SMC,endothelial,high_vs_low_positive__unmatched,12,12,1309,True,eligible
+19,AMD,SMC,macrophage,high_vs_low_positive__unmatched,12,12,217,True,eligible
+19,AMD,pericyte,endothelial,high_vs_low_positive__unmatched,17,17,1309,True,eligible
+19,AMD,pericyte,macrophage,high_vs_low_positive__unmatched,17,17,217,True,eligible
+19,AMD,SMC,endothelial,high_vs_low_positive__nFeature_matched,10,10,1309,True,eligible
+19,AMD,SMC,macrophage,high_vs_low_positive__nFeature_matched,10,10,217,True,eligible
+19,AMD,pericyte,endothelial,high_vs_low_positive__nFeature_matched,10,10,1309,True,eligible
+19,AMD,pericyte,macrophage,high_vs_low_positive__nFeature_matched,10,10,217,True,eligible
+19,AMD,SMC,endothelial,high_vs_undetected__unmatched,12,25,1309,True,eligible
+19,AMD,SMC,macrophage,high_vs_undetected__unmatched,12,25,217,True,eligible
+19,AMD,pericyte,endothelial,high_vs_undetected__unmatched,17,43,1309,True,eligible
+19,AMD,pericyte,macrophage,high_vs_undetected__unmatched,17,43,217,True,eligible
+19,AMD,SMC,endothelial,high_vs_undetected__nFeature_matched,6,6,1309,False,sender<10 or receiver<20
+19,AMD,SMC,macrophage,high_vs_undetected__nFeature_matched,6,6,217,False,sender<10 or receiver<20
+19,AMD,pericyte,endothelial,high_vs_undetected__nFeature_matched,17,17,1309,True,eligible
+19,AMD,pericyte,macrophage,high_vs_undetected__nFeature_matched,17,17,217,True,eligible
+20,AMD,SMC,endothelial,high_vs_low_positive__unmatched,3,3,1054,False,sender<10 or receiver<20
+20,AMD,SMC,macrophage,high_vs_low_positive__unmatched,3,3,291,False,sender<10 or receiver<20
+20,AMD,pericyte,endothelial,high_vs_low_positive__unmatched,6,6,1054,False,sender<10 or receiver<20
+20,AMD,pericyte,macrophage,high_vs_low_positive__unmatched,6,6,291,False,sender<10 or receiver<20
+20,AMD,SMC,endothelial,high_vs_low_positive__nFeature_matched,2,2,1054,False,sender<10 or receiver<20
+20,AMD,SMC,macrophage,high_vs_low_positive__nFeature_matched,2,2,291,False,sender<10 or receiver<20
+20,AMD,pericyte,endothelial,high_vs_low_positive__nFeature_matched,2,2,1054,False,sender<10 or receiver<20
+20,AMD,pericyte,macrophage,high_vs_low_positive__nFeature_matched,2,2,291,False,sender<10 or receiver<20
+20,AMD,SMC,endothelial,high_vs_undetected__unmatched,3,12,1054,False,sender<10 or receiver<20
+20,AMD,SMC,macrophage,high_vs_undetected__unmatched,3,12,291,False,sender<10 or receiver<20
+20,AMD,pericyte,endothelial,high_vs_undetected__unmatched,6,35,1054,False,sender<10 or receiver<20
+20,AMD,pericyte,macrophage,high_vs_undetected__unmatched,6,35,291,False,sender<10 or receiver<20
+20,AMD,SMC,endothelial,high_vs_undetected__nFeature_matched,1,1,1054,False,sender<10 or receiver<20
+20,AMD,SMC,macrophage,high_vs_undetected__nFeature_matched,1,1,291,False,sender<10 or receiver<20
+20,AMD,pericyte,endothelial,high_vs_undetected__nFeature_matched,6,6,1054,False,sender<10 or receiver<20
+20,AMD,pericyte,macrophage,high_vs_undetected__nFeature_matched,6,6,291,False,sender<10 or receiver<20
+21,AMD,SMC,endothelial,high_vs_low_positive__unmatched,5,5,437,False,sender<10 or receiver<20
+21,AMD,SMC,macrophage,high_vs_low_positive__unmatched,5,5,276,False,sender<10 or receiver<20
+21,AMD,pericyte,endothelial,high_vs_low_positive__unmatched,5,5,437,False,sender<10 or receiver<20
+21,AMD,pericyte,macrophage,high_vs_low_positive__unmatched,5,5,276,False,sender<10 or receiver<20
+21,AMD,SMC,endothelial,high_vs_low_positive__nFeature_matched,3,3,437,False,sender<10 or receiver<20
+21,AMD,SMC,macrophage,high_vs_low_positive__nFeature_matched,3,3,276,False,sender<10 or receiver<20
+21,AMD,pericyte,endothelial,high_vs_low_positive__nFeature_matched,4,4,437,False,sender<10 or receiver<20
+21,AMD,pericyte,macrophage,high_vs_low_positive__nFeature_matched,4,4,276,False,sender<10 or receiver<20
+21,AMD,SMC,endothelial,high_vs_undetected__unmatched,5,6,437,False,sender<10 or receiver<20
+21,AMD,SMC,macrophage,high_vs_undetected__unmatched,5,6,276,False,sender<10 or receiver<20
+21,AMD,pericyte,endothelial,high_vs_undetected__unmatched,5,9,437,False,sender<10 or receiver<20
+21,AMD,pericyte,macrophage,high_vs_undetected__unmatched,5,9,276,False,sender<10 or receiver<20
+21,AMD,SMC,endothelial,high_vs_undetected__nFeature_matched,4,4,437,False,sender<10 or receiver<20
+21,AMD,SMC,macrophage,high_vs_undetected__nFeature_matched,4,4,276,False,sender<10 or receiver<20
+21,AMD,pericyte,endothelial,high_vs_undetected__nFeature_matched,5,5,437,False,sender<10 or receiver<20
+21,AMD,pericyte,macrophage,high_vs_undetected__nFeature_matched,5,5,276,False,sender<10 or receiver<20

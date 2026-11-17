@@ -1,0 +1,17 @@
+{
+  "dataset": "GSE183320",
+  "input": "review_20261013/mural_heterogeneity_extension/scRNA/GSE183320_mural_EC_macrophage_normalized.h5ad",
+  "input_sha256": "577338de4e28fb6172657f716d0076bde41d76b46f825295f52e1b8a39748454",
+  "cells_n": 22438,
+  "donor_n": 21,
+  "genes_n": 38119,
+  "liana": "1.10.0",
+  "pandas": "2.3.3",
+  "numpy": "2.5.3",
+  "anndata": "0.13.4",
+  "random_seed": 20261013,
+  "resource_interactions_available": 4567,
+  "resource_sha256": "8ed134f6de7d2880a12a849ed5aec3f4d538ad6264f4b6178a1431f4c5df3a11",
+  "score_rows": 1571048,
+  "cell_level_permutation_pvalues_used": false
+}

@@ -1,0 +1,26 @@
+{
+  "started_utc": "2026-10-13T06:19:23.327751+00:00",
+  "protocol_sha256": "c7f35d0fd27fba2a3d25970ca13a567041d34df1d42ff598b3bad66c9a1d302f",
+  "python": "3.12.7",
+  "numpy": "2.5.3",
+  "pandas": "3.0.6",
+  "scipy": "1.18.1",
+  "seed": 20261013,
+  "post_hoc": true,
+  "positivity": "published normalized PDE5A > 0; not raw counts",
+  "max_abs_expression_difference": 4.440892098500626e-16,
+  "source_validation_passed": true,
+  "input_sha256": {
+    "data\\raw\\GSE183320_all_metadata.csv.gz": "348bd0d79485d94af0999acd3f70b2c1cf9ff6dbf1c05900043bf40d65f951b3",
+    "data\\processed\\sc_choroid_focus_matrix.csv": "5f5412ddc1ffbe882e27472f570b12d883c1517602355dda1792ab0e3a7a7085",
+    "data\\raw\\GSE183320_all_normalized_expression_data.csv.gz": "5261f38d62dab550c37049fbb2fbb5748155a02fac1429cc2854841be265d3ca"
+  },
+  "libraries_n": 21,
+  "disease_status_counts": {
+    "control": 10,
+    "AMD": 9,
+    "nAMD": 2
+  },
+  "finished_utc": "2026-10-13T06:19:34.600744+00:00",
+  "protocol_unchanged": true
+}
